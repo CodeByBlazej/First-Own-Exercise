@@ -1,5 +1,3 @@
-// const clock = document.querySelector('clock');
-
 function updateClock() {
   let now = new Date();
   let hours = now.getHours();
